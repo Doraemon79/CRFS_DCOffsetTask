@@ -1,0 +1,13 @@
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\bin\Debug\netcoreapp2.2\Server.deps.json
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\bin\Debug\netcoreapp2.2\Server.runtimeconfig.json
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\bin\Debug\netcoreapp2.2\Server.runtimeconfig.dev.json
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\bin\Debug\netcoreapp2.2\Server.dll
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\bin\Debug\netcoreapp2.2\Server.pdb
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\obj\Debug\netcoreapp2.2\Server.csprojAssemblyReference.cache
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\obj\Debug\netcoreapp2.2\Server.AssemblyInfoInputs.cache
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\obj\Debug\netcoreapp2.2\Server.AssemblyInfo.cs
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\obj\Debug\netcoreapp2.2\Server.csproj.CopyComplete
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\obj\Debug\netcoreapp2.2\Server.dll
+C:\Users\ignle\Desktop\TechTasks\RF_Cambridge\Server\obj\Debug\netcoreapp2.2\Server.pdb
